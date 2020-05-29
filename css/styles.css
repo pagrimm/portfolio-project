@@ -1,3 +1,7 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
 a {
   color: #3498DB;
 }
@@ -16,6 +20,10 @@ img.me {
   max-height: 200px;
   border: 5px solid #444;
   margin-right: 20px;
+}
+
+.thin-text{
+  font-weight: 100;
 }
 
 .card {
