@@ -18,7 +18,7 @@ A place for prospective employers to find centralized information about me, my b
 ## Technologies Used
 
 HTML  
-CSS 
+CSS  
 Bootstrap 
 
 ## Legal
