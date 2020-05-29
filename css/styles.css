@@ -28,8 +28,12 @@ img.me {
   color: darkgray;
 }
 
-.text-thin{
+.text-thin {
   font-weight: 100;
+}
+
+.text-bold {
+  font-weight: bold;
 }
 
 .card {
