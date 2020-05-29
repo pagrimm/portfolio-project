@@ -18,7 +18,9 @@ img.me {
   background-color: #444;
 }
 
+
 @media screen and (max-width: 768px) {
   .card-text:last-child {
     margin-bottom: 30px;
   }
+}
