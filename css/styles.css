@@ -18,6 +18,15 @@ img.me {
   background-color: #444;
 }
 
+.jumbotron {
+  position: relative;
+}
+.social {
+  float: left;
+  max-width:auto;
+  max-height:25px;
+  margin-right:5px;
+}
 
 @media screen and (max-width: 768px) {
   .card-text:last-child {
