@@ -1,3 +1,11 @@
 h1.top-title {
   color: #ee5f5b;
 }
+
+img.me {
+  float: left;
+  max-width: 200px;
+  max-height: 200px;
+  margin: 20px;
+  border: 4px solid #1C1E22;
+}
