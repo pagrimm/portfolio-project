@@ -1,19 +1,18 @@
-# _Portfolio Project_
+# Portfolio Project
 
-#### _Weekly Independent Project for Epicodus, 05.29.2020_
+#### Weekly Independent Project for Epicodus, 05.29.2020
 
-#### By _**Peter Grimm**_
+#### By **Peter Grimm**
 
 ## Description
 
-_A place for prospective employers to find centralized information about me, my background, and the projects I have been working on for Epicodus._
+A place for prospective employers to find centralized information about me, my background, and the projects I have been working on for Epicodus.
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-** _https://github.com/pagrimm/portfolio-project.git_
-* _Browse to the portfolio-project folder_
-* _Open index.html in a browser of your choice_
+* Clone this repository https://github.com/pagrimm/portfolio-project.git
+* Browse to the portfolio-project folder
+* Open index.html in a browser of your choice
 
 ## Technologies Used
 
