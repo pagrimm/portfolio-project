@@ -13,7 +13,7 @@ A place for prospective employers to find centralized information about me, my b
 * Clone this repository https://github.com/pagrimm/portfolio-project.git
 * Browse to the _portfolio-project_ folder
 * Open _index.html_ in a browser of your choice
-* This project can also be accessed via GitHub Pages http://pagrimm.github.io/portfolio-project
+* This project can also be accessed via GitHub Pages https://pagrimm.github.io/portfolio-project/
 
 ## Technologies Used
 
