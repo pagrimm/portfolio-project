@@ -11,8 +11,8 @@ A place for prospective employers to find centralized information about me, my b
 ## Setup/Installation Requirements
 
 * Clone this repository https://github.com/pagrimm/portfolio-project.git
-* Browse to the portfolio-project folder
-* Open index.html in a browser of your choice
+* Browse to the _portfolio-project_ folder
+* Open _index.html_ in a browser of your choice
 
 ## Technologies Used
 
