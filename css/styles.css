@@ -24,7 +24,11 @@ img.me {
   margin-right: 20px;
 }
 
-.thin-text{
+.text-darker{
+  color: darkgray;
+}
+
+.text-thin{
   font-weight: 100;
 }
 
@@ -36,7 +40,16 @@ img.me {
   background-color: #444;
 }
 
-.social {
+.jumbotron {
+  position: relative;
+}
+
+.social-panel{
+  position: absolute;
+  bottom: 10px;
+}
+
+.social-img {
   float: left;
   max-width: auto;
   max-height: 25px;
