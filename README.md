@@ -1,7 +1,6 @@
 # Portfolio Project
 **Weekly Independent Project for Epicodus**  
-**By Peter Grimm**  
-**05.29.2020**
+**By Peter Grimm, 05.29.2020****  
 
 ## Description
 
